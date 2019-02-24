@@ -2,7 +2,7 @@
 
 Memory Game using JavaFX
 
-Disclaimer: I'm not a professional programmer. My coding is far from perfect. This isn't considered completely done and ideal.
+Disclaimer: I'm not a professional programmer. My coding is far from perfect. This project isn't neither considered completely done nor ideal.
 
 There are multiple "global" variables that I can't be bothered to figure out how to get around.
 
