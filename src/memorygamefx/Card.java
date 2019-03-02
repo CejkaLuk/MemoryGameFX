@@ -32,7 +32,7 @@ public class Card extends ImageView
        setImage( ImageStore.card_back_image );
     }
     
-    public boolean hasSameIDas( Card another_card )
+    public boolean equals( Card another_card )
     {
        return ( card_ID  ==  another_card.card_ID );
     }

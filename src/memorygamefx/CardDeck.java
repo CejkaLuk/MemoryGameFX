@@ -53,7 +53,7 @@ public final class CardDeck
             else if ( num_active_cards_revealed == 1 && first_revealed_card != card )
             {
                 // The cards have the same ID (they match).
-                if ( first_revealed_card.hasSameIDas(card) )
+                if ( first_revealed_card.equals(card) )
                 {
                     first_revealed_card.setIsMatched(true);
                     card.setIsMatched(true);
